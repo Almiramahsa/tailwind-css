@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Almiramahsa/tailwind-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Almiramahsa/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/Almiramahsa/tailwind-css#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}
